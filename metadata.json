@@ -1,0 +1,7 @@
+{
+  "name": "HoopsBoard Pro",
+  "description": "A professional-grade basketball scoreboard with real-time clock management, shot clock controls, and AI-powered game analysis using Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
